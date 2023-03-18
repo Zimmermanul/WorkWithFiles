@@ -1,1 +1,1 @@
-qa.guru homework
+example of working with files in tests
